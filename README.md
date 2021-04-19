@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[<img src="https://spotify-livid-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/f0a69acab4eb4ba7bf6419a4e35dee0a)
+
 <!--
 **MOXHAFOREVA/MOXHAFOREVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
