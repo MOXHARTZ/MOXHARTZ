@@ -1,8 +1,15 @@
-### Hi there, I'm Eren - aka [MOXHA] 👋
+### Hi there, I'm MOXHA 👋
 
-## I'm a Developer, and Student.
+![Discord](https://img.shields.io/discord/720326694271189124?label=Discord&logo=Discord)
 
-- 🌱 I’m always learning something 🤣
 
-[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
+### Spotify Playing 🎧
 
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)]
+
+### Connect with me:
+[<img align="left" alt="Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
+[<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+
+[youtube]: https://www.youtube.com/channel/UCQpilqDvkmxqJzm-zSLFNHA
+[discord]: https://discord.gg/davU2SY
