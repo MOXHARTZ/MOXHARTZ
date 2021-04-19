@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://spotify-now-play.vercel.app/api/spotify)](https://open.spotify.com/user/spotify-now-play.vercel.app)
+[![Spotify](https://moxhaforeva.vercel.app/api/spotify)](https://open.spotify.com/user/moxhaforeva)
 
 <!--
 **MOXHAFOREVA/MOXHAFOREVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
