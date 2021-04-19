@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem-seven-indol.vercel.app/api/spotify)]
+![Spotify](https://novatorem-seven-indol.vercel.app/api/spotify)
 
 <!--
 **MOXHAFOREVA/MOXHAFOREVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
