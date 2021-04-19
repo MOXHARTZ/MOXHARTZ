@@ -4,5 +4,5 @@
 
 - 🌱 I’m always learning something 🤣
 
-[<img src="https://novatorem-seven-indol.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
 
