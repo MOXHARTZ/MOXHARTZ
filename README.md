@@ -5,7 +5,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)]
+[<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
 
 ### Connect with me:
 [<img align="left" alt="Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
