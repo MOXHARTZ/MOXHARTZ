@@ -7,9 +7,9 @@
 
 [<img src="https://novatorem-seven-indol.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/moxhaforeva)
 
-[![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOXHARTZ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![MOXHA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOXHARTZ&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOXHARTZ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOXHARTZ&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 [<img align="left" alt="Youtube" width="44px" src="https://img.icons8.com/color/2x/youtube-play.png" />][youtube]
